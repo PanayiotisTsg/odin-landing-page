@@ -187,3 +187,15 @@ section.cta {
 .sign-up.bottom {
     border: 2px solid white;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
